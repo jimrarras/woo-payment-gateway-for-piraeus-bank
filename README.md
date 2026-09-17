@@ -1,5 +1,7 @@
 # Piraeus Bank WooCommerce Payment Gateway
 
+<img src=".github/readme/banner.webp" alt="Piraeus Bank Payment Gateway: cards, Google Pay and IRIS for WooCommerce" width="100%">
+
 An independently maintained fork of the [Piraeus Bank WooCommerce Payment Gateway](https://wordpress.org/plugins/woo-payment-gateway-for-piraeus-bank/) plugin by Papaki (Enartia S.A.), which was itself based on the plugin by emspace.gr. It accepts card, Google Pay and IRIS payments through the Piraeus Bank Paycenter hosted payment page.
 
 The fork exists to run on current WordPress and WooCommerce releases in production and to ship fixes quickly. It is not affiliated with or endorsed by Papaki or Piraeus Bank.
