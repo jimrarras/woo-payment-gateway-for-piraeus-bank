@@ -6,7 +6,7 @@ Requires at least: 4.0
 Tested up to: 7.1
 Requires PHP: 7.4
 WC tested up to: 11.1
-Stable tag: 3.3.0
+Stable tag: 3.3.1
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -80,6 +80,9 @@ In these cases you should follow the [instructions](https://docs.woocommerce.com
 == Changelog ==
 
 Versions 3.2.0 and earlier are upstream releases by Papaki (Enartia S.A.).
+
+= 3.3.1 =
+Fixed: an Update URI header stops WordPress from offering the upstream WordPress.org plugin, which shares this slug, as an update that would overwrite this fork.
 
 = 3.3.0 =
 Show the accepted payment brands as logos next to the gateway title, instead of describing them in the title text.

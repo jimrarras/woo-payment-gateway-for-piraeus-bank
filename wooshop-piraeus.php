@@ -3,7 +3,7 @@
   Plugin Name: Piraeus Bank WooCommerce Payment Gateway
   Plugin URI: https://github.com/jimrarras/woo-payment-gateway-for-piraeus-bank
   Description: Accept Visa, Mastercard and Maestro cards, plus Google Pay and IRIS instant payments, through the Piraeus Bank Paycenter hosted payment page.
-  Version: 3.3.0
+  Version: 3.3.1
   Author: Dimitrios Rarras, based on the plugin by Papaki (Enartia S.A.)
   Author URI: https://jimrarras.com
   License: GPL-3.0-or-later
@@ -12,6 +12,7 @@
   WC tested up to: 11.1
   Text Domain: woo-payment-gateway-for-piraeus-bank
   Domain Path: /languages
+  Update URI: https://github.com/jimrarras/woo-payment-gateway-for-piraeus-bank
 */
 /*
 Independently maintained fork of "Piraeus Bank WooCommerce Payment Gateway" by

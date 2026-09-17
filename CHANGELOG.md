@@ -5,6 +5,12 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 Versions 3.2.0 and earlier are upstream releases by Papaki (Enartia S.A.).
 
+## [3.3.1] - 2026-09-17
+
+### Fixed
+
+- An `Update URI` header stops WordPress from offering the upstream WordPress.org plugin, which shares this slug, as an update that would overwrite this fork.
+
 ## [3.3.0] - 2026-09-04
 
 ### Added
@@ -32,7 +38,7 @@ Versions 3.2.0 and earlier are upstream releases by Papaki (Enartia S.A.).
 
 ### Security
 
-- 
+- Security fix.
 
 ## [3.1.4] - upstream release
 
