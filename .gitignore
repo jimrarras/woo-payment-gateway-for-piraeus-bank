@@ -1,0 +1,10 @@
+node_modules/
+vendor/
+.env
+.env.*
+*.log
+CLAUDE.md
+/docs/superpowers/
+/docs/plans/
+.superpowers/
+*.zip
