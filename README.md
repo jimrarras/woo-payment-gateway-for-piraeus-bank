@@ -4,6 +4,8 @@ An independently maintained fork of the [Piraeus Bank WooCommerce Payment Gatewa
 
 The fork exists to run on current WordPress and WooCommerce releases in production and to ship fixes quickly. It is not affiliated with or endorsed by Papaki or Piraeus Bank.
 
+<img src=".github/readme/piraeus-payment-row.webp" alt="The Piraeus Bank payment option at checkout, showing the Visa, Mastercard, Maestro, American Express, Diners Club, Google Pay and IRIS logos" width="420">
+
 ## Features
 
 - Redirect to the Piraeus Bank Paycenter hosted payment page (no card data touches the store)
@@ -83,7 +85,9 @@ Piraeus Bank, IRIS, Google Pay and the card brand names and logos are trademarks
 
 ## Support
 
-If this plugin saves you time, you can [buy me a coffee](https://buymeacoffee.com/jimrarras).
+If this plugin saves you time, you can buy me a coffee.
+
+<a href="https://buymeacoffee.com/jimrarras"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" height="48"></a>
 
 ## License
 
